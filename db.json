@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "description": "Rocketseat",
+      "price": 2550.45,
+      "category": "Salário",
+      "type": "income",
+      "createdAt": "2023-03-12T12:57:44.820Z",
+      "id": 1
+    },
+    {
+      "description": "Almoço",
+      "price": 35.12,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-20T12:58:33.243Z",
+      "id": 2
+    },
+    {
+      "description": "Cinema",
+      "price": 15,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2023-04-20T12:58:55.265Z",
+      "id": 3
+    },
+    {
+      "description": "Rocketseat",
+      "price": 94.85,
+      "category": "Hora extra",
+      "type": "income",
+      "createdAt": "2023-04-20T12:59:17.419Z",
+      "id": 4
+    },
+    {
+      "description": "Roupa",
+      "price": 115.89,
+      "category": "Vestuário",
+      "type": "outcome",
+      "createdAt": "2023-04-22T12:59:40.551Z",
+      "id": 5
+    },
+    {
+      "description": "Jantar",
+      "price": 30.3,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-25T13:00:03.626Z",
+      "id": 6
+    },
+    {
+      "description": "Almoço",
+      "price": 30,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-29T13:16:36.065Z",
+      "id": 7
+    }
+  ]
+}
